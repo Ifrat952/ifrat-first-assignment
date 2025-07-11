@@ -30,10 +30,10 @@
 
 
 .dark-box {
-    background-image: url(/B12A01-landing-launchpad/Assets/Hero-bg.png);
+    background-image: url("./B12A01-landing-launchpad/Assets/Hero-bg.png");
 background-size: cover;
 background-position: center;
-background repeat: no-repeat ;
+background-repeat: no-repeat ;
   color: #252432;          
   padding: 158px 40px;
   border-radius: 12px;
